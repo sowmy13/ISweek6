@@ -4,4 +4,4 @@ fruits.append("avacado")
 
 print(fruits)
 
-print("third element {}".format(fruits[2])
+print("third element {}".format(fruits[2]))
